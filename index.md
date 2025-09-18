@@ -71,3 +71,10 @@ layout: default
 3. **过期救援**：套餐到期后余额可保留180天，突然想起要打电话时，发短信"**RECARREGAR**"到1910能紧急激活24小时服务  
 
 　　最后唠叨句：别被那些"无限流量"套餐闪花眼，根据行程选才明智。在波尔图三天喝掉12杯波特酒的我，流量只用了3GB——毕竟现实中的微醺老街，比手机屏幕精彩百倍啊。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Portugal eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/portugal-data-plans)
